@@ -19,3 +19,6 @@ npm install
 ```sh
 npm run dev
 ```
+
+##Posible Solución
+Si necesitas ayuda y quieres comprobar alguna cosa en concreto, o simplemente quieres ver la solución al completo, [aquí tienes el proyecto con la solución](https://github.com/ProgrameeAcademy/sumergete-vue-todo-list-solucion)
